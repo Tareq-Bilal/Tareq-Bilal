@@ -76,9 +76,11 @@
   <a href="https://learn.microsoft.com/en-us/dotnet/framework/data/adonet/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="ADO.NET" width="40" height="40" />
   </a>
-  <a href="https://swagger.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SWU-logo-clr.png" alt="Swagger" width="40" height="40" />
-  </a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/csharp/csharp.svg" alt="LINQ" width="40" height="40" />
+</a>
+
+
 ---
 
 <p align="center">

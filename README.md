@@ -73,13 +73,12 @@
   <a href="https://learn.microsoft.com/en-us/dotnet/framework/data/adonet/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="ADO.NET" width="40" height="40" />
   </a>
-  
-<a href="https://en.wikipedia.org/wiki/SOLID" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/solid/solid.svg" alt="SOLID Principles" width="40" height="40" />
-</a>
 
-<a href="https://en.wikipedia.org/wiki/SOLID" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/SOLID_principles.png" alt="SOLID Principles" width="40" height="40" />
+<a href="https://en.wikipedia.org/wiki/T-SQL" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/T-SQL_Logo.png" alt="T-SQL" width="40" height="40" />
+</a>
+<a href="https://en.wikipedia.org/wiki/T-SQL" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="T-SQL" width="40" height="40" />
 </a>
 
 

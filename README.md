@@ -70,15 +70,13 @@
   <a href="https://learn.microsoft.com/en-us/ef/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuget/nuget-original.svg" alt="Entity Framework Core" width="40" height="40" />
 
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Linq_Logo.svg" alt="LINQ" width="40" height="40" />
-  </a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Linq_Logo.svg" alt="LINQ" width="40" height="40" />
+</a>
+
   <a href="https://learn.microsoft.com/en-us/dotnet/framework/data/adonet/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="ADO.NET" width="40" height="40" />
   </a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/csharp/csharp.svg" alt="LINQ" width="40" height="40" />
-</a>
 
 
 ---

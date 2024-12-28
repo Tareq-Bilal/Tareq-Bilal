@@ -70,14 +70,17 @@
   <a href="https://learn.microsoft.com/en-us/ef/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuget/nuget-original.svg" alt="Entity Framework Core" width="40" height="40" />
 
+  <a href="https://learn.microsoft.com/en-us/ef/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuget/nuget-original.svg" alt="Entity Framework Core" width="40" height="40" />
+  </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Linq_Logo.svg" alt="LINQ" width="40" height="40" />
+    <img src="https://camo.githubusercontent.com/48982a64a88d56353d2ea14fbdce77c0a1c38cbb71e4c92d927a6b8d326dbd41/68747470733a2f2f75706c6f61642e76696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f382f38342f4c494e512e706e67" alt="LINQ" width="40" height="40" />
   </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/framework/data/adonet/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Microsoft_.NET_logo.svg" alt="ADO.NET" width="40" height="40" />
+    <img src="https://camo.githubusercontent.com/42d2db68a16de3060191627b58bb326d8a10a7f6e9ae503ae2dd332b9790b34b/68747470733a2f2f692e696d6775722e636f6d2f50665633524b572e706e67" alt="ADO.NET" width="40" height="40" />
   </a>
   <a href="https://swagger.io/" target="_blank" rel="noreferrer">
-    <img src="https://iconduck.com/icons/28022/swagger" alt="Swagger" width="40" height="40" />
+    <img src="https://camo.githubusercontent.com/4bda66696ae61c59f81eb7b215a5b8e5bc91c3a69eabdf2db27b38e1132c1df5/68747470733a2f2f7374617469632d312e73717561726573706163652e636f6d2f7374617469632f3430383535633366326464383364373138633465333739312f61373966663939662d303030302d343538302d393662632d6162326663316230356132382e706e67" alt="Swagger" width="40" height="40" />
   </a>
 
 ---

@@ -77,7 +77,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Microsoft_.NET_logo.svg" alt="ADO.NET" width="40" height="40" />
   </a>
   <a href="https://swagger.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SWU-logo-clr.png" alt="Swagger" width="40" height="40" />
+    <img src="[https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SWU-logo-clr.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F28022%2Fswagger&psig=AOvVaw1clCZam8TG6HXFAJpjVeO-&ust=1735505166322000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNizqtmqy4oDFQAAAAAdAAAAABAE)" alt="Swagger" width="40" height="40" />
   </a>
 
 ---

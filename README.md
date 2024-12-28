@@ -77,7 +77,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Microsoft_.NET_logo.svg" alt="ADO.NET" width="40" height="40" />
   </a>
   <a href="https://swagger.io/" target="_blank" rel="noreferrer">
-    <img src="https://iconduck.com/icons/28022/swagger?shared" alt="Swagger" width="40" height="40" />
+    <img src="https://iconduck.com/icons/28022/swagger" alt="Swagger" width="40" height="40" />
   </a>
 
 ---

@@ -71,7 +71,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuget/nuget-original.svg" alt="Entity Framework Core" width="40" height="40" />
 
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Linq_Logo.svg" alt="LINQ" width="40" height="40" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linqpad.net%2F&psig=AOvVaw0GWD5kVvhs6uAodTBaH6Dn&ust=1735506195696000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjMn8euy4oDFQAAAAAdAAAAABAE" alt="LINQ" width="40" height="40" />
 </a>
 
   <a href="https://learn.microsoft.com/en-us/dotnet/framework/data/adonet/" target="_blank" rel="noreferrer">

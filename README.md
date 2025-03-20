@@ -75,13 +75,13 @@
   </a>
 
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://en.wikipedia.org/wiki/Bootstrap_%28front-end_framework%29" alt="" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />
   </a>
-
- <a href="https://www.nuget.org/packages/dapper/" rel="noreferrer">
-    <img src="https://www.nuget.org/packages/dapper/" alt="" width="40" height="40" />
+  
+  <a href="https://angular.dev/" target="_blank" rel="noreferrer">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
   </a>
-
+          
 ---
 
 <p align="center">

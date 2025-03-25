@@ -84,6 +84,10 @@
 
   <a href="https://github.com/DapperLib/Dapper" target="_blank" rel="noreferrer">
    <img src="https://api.nuget.org/v3-flatcontainer/dapper/2.1.66/icon" width="35" height="35"/>
+  </a> 
+  
+  <a href="https://github.com/FluentValidation/FluentValidation" target="_blank" rel="noreferrer">
+   <img src="https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.11.0/icon" width="40" height="40"/>
   </a>      
     
 ---

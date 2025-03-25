@@ -67,6 +67,9 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
   </a>
+  <a href="https://github.com/FluentValidation/FluentValidation" target="_blank" rel="noreferrer">
+   <img src="https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.11.0/icon" width="40" height="40"/>
+  </a>      
   <a href="https://learn.microsoft.com/en-us/ef/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuget/nuget-original.svg" alt="Entity Framework Core" width="40" height="40" />
 
@@ -86,9 +89,6 @@
    <img src="https://api.nuget.org/v3-flatcontainer/dapper/2.1.66/icon" width="35" height="35"/>
   </a> 
   
-  <a href="https://github.com/FluentValidation/FluentValidation" target="_blank" rel="noreferrer">
-   <img src="https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.11.0/icon" width="40" height="40"/>
-  </a>      
     
 ---
 

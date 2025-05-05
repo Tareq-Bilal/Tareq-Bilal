@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tareq Abu Sharkh</h1>
-<h3 align="center">A passionate .NET Core Backend developer from Jordan</h3>
+<h3 align="center">.NET Core Backend developer from Jordan</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=tareq-bilal&label=Profile%20views&color=brightgreen&style=flat-square" alt="Profile Views" />

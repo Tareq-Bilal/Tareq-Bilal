@@ -105,4 +105,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tareq-bilal&theme=github-dark-blue" alt="GitHub Streak" />
 </p>
 -->
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://user-images.githubusercontent.com/107488620/183304038-2788ab5d-4c02-45e9-a724-990f27061c54.png">
+[![GitHub Streak](https://streak-stats.demolab.com?user=Tareq%20Abu%20Sharkh&theme=dark&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)

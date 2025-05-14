@@ -105,4 +105,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tareq-bilal&theme=github-dark-blue" alt="GitHub Streak" />
 </p>
 -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tareq-bilal)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tareq-bilal&theme=dark&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)

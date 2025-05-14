@@ -100,9 +100,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tareq-bilal&show_icons=true&locale=en&theme=github_dark" alt="GitHub Stats" />
 
-  <!-- </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tareq-bilal&theme=github-dark-blue" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=tareq-bilal&theme=github-dark-blue" alt="GitHub Streak" />
 </p>
--->
-[![GitHub Streak](https://streak-stats.demolab.com?user=tareq-bilal&theme=dark&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+

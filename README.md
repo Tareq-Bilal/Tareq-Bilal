@@ -104,8 +104,3 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tareq-bilal&show_icons=true&locale=en&theme=github_dark" alt="GitHub Stats" />
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tareq-bilal&theme=github-dark-blue" alt="GitHub Streak" />
-</p>
-

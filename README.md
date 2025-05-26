@@ -42,9 +42,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" alt="CSS3" width="40" height="40"/>
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
-  </a>
+  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
   </a>
@@ -87,8 +85,12 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40"/>
   </a>
   
-  <a href="https://angular.dev/" target="_blank" rel="noreferrer">
+  <a href="https://jwt.io/" target="_blank" rel="noreferrer">
    <img src="https://jwt.io/img/pic_logo.svg" width="40" height="40"/>
+  </a>
+  
+  <a href="https://serilog.net/" target="_blank" rel="noreferrer">
+   <img src="https://raw.githubusercontent.com/serilog/serilog.github.io/master/images/serilog-180px.png" width="40" height="40"/>
   </a>
   
   <a href="https://swagger.io/tools/swagger-ui/" target="_blank" rel="noreferrer">

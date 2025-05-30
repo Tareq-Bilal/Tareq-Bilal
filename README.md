@@ -92,7 +92,8 @@
   <a href="https://swagger.io/tools/swagger-ui/" target="_blank" rel="noreferrer">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="40" height="40" />
   </a>
-  
+
+  <p align="center">
   <a href="https://github.com/DapperLib/Dapper" target="_blank" rel="noreferrer">
    <img src="https://api.nuget.org/v3-flatcontainer/dapper/2.1.66/icon" width="35" height="35"/>
   </a> 
@@ -104,6 +105,7 @@
   <a href="https://flutter.dev/" target="_blank" rel="flutter">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40"/>
   </a>
+  </p>
     
 ---
 

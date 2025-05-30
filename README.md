@@ -101,10 +101,6 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="40" height="40" />
   </a>
   
-  <a href="https://dart.dev/get-dart" target="_blank" rel="dart">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="40" height="40" />
-  </a>
-  
   <a href="https://flutter.dev/" target="_blank" rel="flutter">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40"/>
   </a>

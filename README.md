@@ -81,15 +81,14 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40" />
   </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/framework/data/adonet/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="ADO.NET" width="40" height="40" />
+  </a>
   <a href="https://github.com/FluentValidation/FluentValidation" target="_blank" rel="noreferrer">
    <img src="https://api.nuget.org/v3-flatcontainer/fluentvalidation/11.11.0/icon" width="40" height="40"/>
   </a>      
   <a href="https://learn.microsoft.com/en-us/ef/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuget/nuget-original.svg" alt="Entity Framework Core" width="40" height="40" />
-
-  <a href="https://learn.microsoft.com/en-us/dotnet/framework/data/adonet/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="ADO.NET" width="40" height="40" />
-  </a>
 
   
 <p align="center">

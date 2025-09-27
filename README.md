@@ -32,7 +32,7 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<p style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
   </a>
@@ -103,7 +103,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuget/nuget-original.svg" alt="Entity Framework Core" width="40" height="40" />
 
   
-<p align="center">
  <a href="https://jwt.io/" target="_blank" rel="noreferrer">
    <img src="https://jwt.io/img/pic_logo.svg" width="40" height="40"/>
   </a>
@@ -125,8 +124,7 @@
   <a href="https://flutter.dev/" target="_blank" rel="flutter">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40"/>
   </a>
-    </p>
-
+</div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tareq-bilal&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>

@@ -1,4 +1,4 @@
-<h1 align="center">Salam Aalikum 👋, I'm Tareq Abu Sharkh</h1>
+<h1 align="center">Salam 👋, I'm Tareq Abu Sharkh</h1>
 <h3 align="center">.NET Core Backend Developer from Jordan</h3>
 
 <p align="left">

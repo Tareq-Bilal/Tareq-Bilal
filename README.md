@@ -41,10 +41,11 @@
 #### 💻 Backend & Languages
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Dapper](https://img.shields.io/badge/Dapper-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Dapper](https://img.shields.io/badge/Dapper-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 #### 🎨 Frontend
 
@@ -85,31 +86,6 @@
 ---
 
 <div align="center">
-
-### 📊 GitHub Stats
-
-<a href="https://github.com/tareq-bilal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tareq-bilal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/tareq-bilal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tareq-bilal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 🔥 Streak Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tareq-bilal&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<div align="center">
   
 ### 👀 Profile Views
 
@@ -119,6 +95,6 @@
 
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF6600&height=100&section=footer" width="100%"/>
 
 </div>
